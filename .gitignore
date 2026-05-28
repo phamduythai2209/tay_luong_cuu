@@ -1,5 +1,3 @@
 config/database.php
 assets/uploads/
 logs/
-*.log
-.env
