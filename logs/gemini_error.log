@@ -1,0 +1,25 @@
+2026-03-14 15:44:50 | Gemini error: models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods. | msg: hello
+2026-03-14 15:48:11 | Gemini error: models/gemini-1.5-flash-8b is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods. | msg: hello
+2026-03-14 16:02:21 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: Tiệc liên hoan
+2026-03-14 16:24:32 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: rượu nặng nhất
+2026-03-15 04:39:59 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: Bổ sức khoẻ
+2026-03-15 04:57:10 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: nêu những sản phẩm bán chạy
+2026-03-15 06:05:13 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: sản phẩm làm quà tăng cho ng già
+2026-03-15 14:50:57 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: lấy rượu đắt nhất mà tốt cho sức khỏe
+2026-03-15 14:51:14 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: lấy rượu đắt nhất mà tốt cho sức khỏe
+2026-03-15 14:51:56 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: tìm rượu để tặng
+2026-03-15 15:10:07 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: Quà tặng
+2026-03-15 15:10:52 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: Bổ sức khoẻ
+2026-03-15 15:17:03 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: Quà tặng
+2026-03-15 15:17:35 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: quà tặng bố mẹ
+2026-03-20 15:58:11 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: Bổ sức khoẻ
+2026-04-21 05:03:44 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: Bổ sức khoẻ
+2026-04-21 15:07:24 | Gemini error: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | msg: Bổ sức khoẻ
+2026-04-21 15:08:17 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: Tiệc liên hoan
+2026-04-21 15:10:09 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: Dưới 700k
+2026-04-21 15:13:07 | Gemini error: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | msg: Tiệc liên hoan
+2026-04-21 15:16:08 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: xin chào, tư vấn rượu cho tôi
+2026-04-21 15:17:12 | CẢNH BÁO: bị cắt do MAX_TOKENS | msg: Tiệc liên hoan
+2026-04-21 15:35:15 | Gemini error: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | msg: Bổ sức khoẻ
+2026-04-22 04:00:56 | CẢNH BÁO: bị cắt MAX_TOKENS | msg: Pha cocktail
+2026-04-22 14:53:05 | This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later. | msg:có cách nào tăng thêm độ mạnh không
